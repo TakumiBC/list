@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:180,新闻综合
+#EXTINF:180,新聞綜合
 #EXTVLCOPT:network-caching=1000
 http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:180,东方卫视
+#EXTINF:180,東方衛視
 #EXTVLCOPT:network-caching=1000
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:180,五星体育
+#EXTINF:180,五星體育
 #EXTVLCOPT:network-caching=1000
 http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:180,CCTV-5
 http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
+#EXTINF:180,無線新聞
+http://live.cooltv.top/tv/tvb.php?id=0&hq
